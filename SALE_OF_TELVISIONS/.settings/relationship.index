@@ -1,0 +1,20 @@
+[ {
+  "baseItem" : {
+    "id" : "_vIV0wDUsEe6to6px_ZLOmw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_--j30DUyEe6to6px_ZLOmw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_ox2zwDXwEe6to6px_ZLOmw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_--j30DUyEe6to6px_ZLOmw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
